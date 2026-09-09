@@ -20,3 +20,9 @@ Also install `linkedindm` (this skill only acts on DMs it sent) and `goal` (run 
 Type `/linkedinfollowup` in Claude Code from the engine checkout. The agent lists who is due, approves, sends through the CLI, and reports sent, replied, failed, and still-due counts against the daily goal. Replied names are the ones to act on yourself.
 
 Heads-up: automated access and messaging violate LinkedIn's User Agreement. The caps and pacing reduce the footprint; they do not make it sanctioned. Use at your own risk.
+
+## Next
+
+Next, install humanizer, which the comment skill uses to make drafted comments read like a person wrote them.
+
+https://github.com/punith7077-FAA/humanizer
